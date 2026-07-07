@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Kamalakannan K
 
-<!--
-**kamalakannan07/kamalakannan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science Engineering Student
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌱 Currently learning Python, Flutter & Web Development
+- 💻 Interested in Software Development
+- 🎯 Preparing for Campus Placements
+- 📍 Chennai, Tamil Nadu, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Flutter
+- Git & GitHub
+
+## 🚀 Projects
+- Smart Campus
+- Portfolio Website
+- Flutter Expense Tracker
+
+## 📫 Contact
+📧 kk8378131@gmail.com
+
+⭐ Thanks for visiting my profile!
