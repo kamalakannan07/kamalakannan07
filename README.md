@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kamalakannan K</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=BE+Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Python+Developer;Flutter+Developer;Open+to+Internships;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=BE+Computer+Science+Engineering+Student;Python+Developer;Flutter+Developer;Web+Development+Learner;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kamalakannan07&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+  <img src="https://komarev.com/ghpvc/?username=kamalakannan07&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Retro Coding"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Retro Coding GIF"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 **BE Computer Science Engineering Student**
+🎓 BE Computer Science Engineering Student
 
 💻 Passionate about Software Development
 
@@ -56,10 +56,10 @@
 A web application for managing attendance, timetables and student information.
 
 ### 💰 Flutter Expense Tracker
-A Flutter application for tracking daily income and expenses.
+A Flutter application for managing daily expenses.
 
 ### 🌐 Portfolio Website
-A responsive personal portfolio built using HTML, CSS and JavaScript.
+Responsive portfolio built using HTML, CSS and JavaScript.
 
 ### 🤖 AI Chatbot
 An AI chatbot that answers user queries.
@@ -71,19 +71,15 @@ An AI chatbot that answers user queries.
 <p align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kk8378131@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/kamalakannan07">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/kamalakannan-k-12454639b">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
 
 </p>
@@ -97,7 +93,5 @@ An AI chatbot that answers user queries.
 ---
 
 <h3 align="center">
-
 ⭐ Thanks for Visiting My GitHub Profile ⭐
-
 </h3>
