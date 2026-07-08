@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=kamalakannan07&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
+
 ---
 
 # 👨‍💻 About Me
@@ -16,7 +20,7 @@
 
 💻 Passionate about Software Development
 
-🌱 Currently learning Python, Flutter & Web Development
+🌱 Currently learning **Python, Flutter & Web Development**
 
 🚀 Building Real-World Projects
 
