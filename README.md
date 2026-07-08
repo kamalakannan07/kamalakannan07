@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamalakannan K</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=BE+Computer+Science+Engineering+Student;Python+Developer;Flutter+Developer;Web+Developer;Always+Learning+New+Things;Welcome+To+My+GitHub+Profile!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=BE+Computer+Science+Engineering+Student;Python+Developer;Flutter+Developer;Web+Development+Learner;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kamalakannan07&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=kamalakannan07&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 🌱 Currently learning Python, Flutter & Web Development
 
-🚀 Building Real World Projects
+🚀 Building Real-World Projects
 
 🎯 Preparing for Campus Placements
 
@@ -32,45 +32,33 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=flutter" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
-
-🐍 Python
-
-📱 Flutter
-
-🌐 HTML
-
-🎨 CSS
-
-⚡ JavaScript
-
-🔧 Git & GitHub
-
----
-
 # 🚀 Projects
 
-🏫 Smart Campus Management System
+### 🏫 Smart Campus Management System
+A web application for managing attendance, timetables and student information.
 
-💰 Flutter Expense Tracker
+### 💰 Flutter Expense Tracker
+A Flutter application for managing daily expenses.
 
-🌐 Portfolio Website
+### 🌐 Portfolio Website
+Responsive portfolio built using HTML, CSS and JavaScript.
 
-🤖 AI Chatbot
+### 🤖 AI Chatbot
+An AI chatbot that answers user queries.
 
 ---
 
@@ -78,7 +66,7 @@
 
 <p align="center">
 
-<a href="mailto:kk8378131@gmail.com?subject=Hello%20Kamalakannan">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kk8378131@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
 </a>
 
@@ -101,5 +89,5 @@
 ---
 
 <h3 align="center">
-⭐ Thanks for Visiting My Profile ⭐
+⭐ Thanks for Visiting My GitHub Profile ⭐
 </h3>
